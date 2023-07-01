@@ -7,7 +7,7 @@ Crime Vision is a deep learning model that utilizes the Densenet121 architecture
 
 ### Get the code
 ```
-git clone --recursive https://github.com/harsh-kashyap0201/crime-vision.git
+git clone --recursive https://github.com/smartinternz02/SPSGP-523684-Crime-Vision-Advanced-Crime-Classification-with-Deep-Learning.git
 ```
 
 ### Requirements
